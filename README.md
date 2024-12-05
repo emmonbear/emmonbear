@@ -7,9 +7,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
+<div align="center">
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+
+</div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
@@ -21,7 +24,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-
 </div>
 <h3 align="center"><strong>📕 My repositories:</strong></h3>
 <div align="center">
@@ -36,10 +38,10 @@
 <h3 align="center"><strong>📊 My Github stats:</strong></h3>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emmonbear&theme=github_dark" height="180em" alt="Stats"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmonbear&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emmonbear&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emmonbear&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emmonbear&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmonbear&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=github_dark&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emmonbear&theme=github_dark&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emmonbear&theme=github_dark&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emmonbear&theme=github_dark&utcOffset=5.30" height="180em" alt="Time Graph"/>
 </div>
 <div align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=emmonbear&no-bg=true&no-frame=true&row=2&column=3"/>
