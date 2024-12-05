@@ -2,9 +2,10 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNsZGgyeGoxc3BnN3E3ajhhaW4zNzAyeDRvajRlbHdzanA1MTRraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif" width="800" height="250"/>
 </p>
 
-<h1 align="center">Hi there, I'm <span style="color:#26a268;">Ilya</span>
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
+<h1 align="center">Hi there, I'm 
+<a href="https://github.com/emmonbear" target="_blank" style="color:#26a268;">Ilya</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 
 <div align="center">
 
