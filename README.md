@@ -18,6 +18,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 ### :hammer_and_wrench: Tools :
 
 <div align="center">
@@ -30,6 +32,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
 <h3 align="center"><strong>📕 My repositories:</strong></h3>
 <div align="center">
 
