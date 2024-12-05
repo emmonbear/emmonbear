@@ -72,31 +72,25 @@
 <hr>
 <h3 align="center"><strong>📊 My Github stats:</strong></h3>
 <div align="center">
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=emmonbear&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25&hide_title=true&card_width=400" width="400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmonbear&layout=compact&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&card_width=400" width="400" />
-      </a>
-    </td>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=emmonbear&theme=dark&background=000000"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=emmonbear&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25&hide_title=true&card_width=400" width="400" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmonbear&layout=compact&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&card_width=400" width="400" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <a href="https://git.io/streak-stats">
+          <img src="http://github-readme-streak-stats.herokuapp.com?user=emmonbear&theme=dark&background=171421&ring=26a268&fire=26a268&currStreakLabel=26a268" width="400" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-
-
---- 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emmonbear&theme=dark&background=000000)](https://git.io/streak-stats)
