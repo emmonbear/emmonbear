@@ -37,15 +37,10 @@
 <hr>
 <h3 align="center"><strong>📊 My Github stats:</strong></h3>
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emmonbear&theme=github_dark" height="180em" alt="Stats"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmonbear&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=github_dark&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emmonbear&theme=github_dark&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emmonbear&theme=github_dark&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emmonbear&theme=github_dark&utcOffset=5.30" height="180em" alt="Time Graph"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmonbear&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmonbear&layout=donut&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
-<div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=emmonbear&no-bg=true&no-frame=true&row=2&column=3"/>
-</div>
-<br>
 
 --- 
