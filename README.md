@@ -38,9 +38,23 @@
 <h3 align="center"><strong>📊 My Github stats:</strong></h3>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmonbear&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=emmonbear&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25&hide_title=true&card_width=400" width="400" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmonbear&layout=compact&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&card_width=400" width="400" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmonbear&layout=donut&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25)](https://github.com/anuraghazra/github-readme-stats) 
+</div>
+
 </div>
 
 --- 
