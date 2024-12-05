@@ -27,13 +27,48 @@
 </div>
 <h3 align="center"><strong>📕 My repositories:</strong></h3>
 <div align="center">
-<a href="https://github.com/emmonbear/A1_Maze_CPP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=A1_Maze_CPP&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25"></a>
-<a href="https://github.com/emmonbear/BrickGame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=BrickGame&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25""></a>
-<a href="https://github.com/emmonbear/3DViewer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=3DViewer&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25""></a>
-<a href="https://github.com/emmonbear/containers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=containers&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25""></a>
-<a href="https://github.com/emmonbear/SQL_bootcamp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=SQL_bootcamp&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25""></a>
-<a href="https://github.com/emmonbear/decimal_lib"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=decimal_lib&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25""></a>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/emmonbear/A1_Maze_CPP">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=A1_Maze_CPP&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25" width="400" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/emmonbear/BrickGame">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=BrickGame&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/emmonbear/3DViewer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=3DViewer&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25" width="400" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/emmonbear/containers">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=containers&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/emmonbear/SQL_bootcamp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=SQL_bootcamp&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25" width="400" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/emmonbear/decimal_lib">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=decimal_lib&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25" width="400" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
+
 <hr>
 <h3 align="center"><strong>📊 My Github stats:</strong></h3>
 <div align="center">
