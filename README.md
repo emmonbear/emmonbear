@@ -85,11 +85,18 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmonbear&layout=compact&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&card_width=400" width="400" />
       </a>
     </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=emmonbear&theme=dark&background=000000"/>
+      </a>
+    </td>
   </tr>
 </table>
 
 </div>
 
-</div>
+
 
 --- 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emmonbear&theme=dark&background=000000)](https://git.io/streak-stats)
