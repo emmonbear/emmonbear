@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNsZGgyeGoxc3BnN3E3ajhhaW4zNzAyeDRvajRlbHdzanA1MTRraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif" width="800" height="250"/>
+</p>
 
-<!--
-**emmonbear/emmonbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="header.png"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="prometheus" alt="prometheus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+
+</div>
+<h3 align="center"><strong>📕 My repositories:</strong></h3>
+<div align="center">
+<a href="https://github.com/emmonbear/A1_Maze_CPP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=A1_Maze_CPP&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25"></a>
+<a href="https://github.com/emmonbear/BrickGame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=BrickGame&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25""></a>
+<a href="https://github.com/emmonbear/3DViewer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=3DViewer&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25""></a>
+<a href="https://github.com/emmonbear/containers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=containers&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25""></a>
+<a href="https://github.com/emmonbear/SQL_bootcamp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=SQL_bootcamp&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25""></a>
+<a href="https://github.com/emmonbear/decimal_lib"><img src="https://github-readme-stats.vercel.app/api/pin/?username=emmonbear&repo=decimal_lib&title_color=26a268&bg_color=171421&text_color=ffffff&icon_color=26a268&border_color=26a268&border_radius=20&line_height=25""></a>
+</div>
