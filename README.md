@@ -97,13 +97,10 @@
         </a>
       </td>
     </tr>
-    <tr>
-      <td colspan="2">
-        <a href="https://git.io/streak-stats">
-          <img src="http://github-readme-streak-stats.herokuapp.com?user=emmonbear&theme=dark&background=171421&ring=26a268&fire=26a268&currStreakLabel=26a268" width="400" />
-        </a>
-      </td>
-    </tr>
   </table>
 </div>
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=emmonbear&theme=dark&background=171421&ring=26a268&fire=26a268&currStreakLabel=26a268" width="400" />
+  </a>
+</div>
