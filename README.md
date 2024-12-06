@@ -1,6 +1,6 @@
-<!-- <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNsZGgyeGoxc3BnN3E3ajhhaW4zNzAyeDRvajRlbHdzanA1MTRraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif" width="800" height="250"/>
-</p> -->
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM0NzM5NDEsIm5iZiI6MTczMzQ3MzY0MSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA2VDA4MjcyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYxZjFiNGE3NTM2MmIyNGIxOWE1ZDkyZjkzMDI4ZGVmMThmZmIxZmNkZjg4NDViYjBkZDczMDJiODYzNTExMGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LohW3A4k4UgebynE8ifGwA88DfJorxpj1f2-9P7rzAw"/>
+</p>
 
 <h1 align="center">Hi there, I'm 
 <a href="https://github.com/emmonbear" target="_blank" style="color:#26a268;">Ilya</a> 
