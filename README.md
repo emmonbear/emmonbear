@@ -101,6 +101,6 @@
 </div>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=emmonbear&theme=dark&background=171421&ring=26a268&fire=26a268&currStreakLabel=26a268" width="800" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=emmonbear&theme=dark&background=171421&ring=26a268&fire=26a268&currStreakLabel=26a268&border_color=26a268&border_radius=20" width="900" />
   </a>
 </div>
