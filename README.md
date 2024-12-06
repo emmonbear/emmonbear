@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNsZGgyeGoxc3BnN3E3ajhhaW4zNzAyeDRvajRlbHdzanA1MTRraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif" width="800" height="250"/>
-</p>
+</p> -->
 
 <h1 align="center">Hi there, I'm 
 <a href="https://github.com/emmonbear" target="_blank" style="color:#26a268;">Ilya</a> 
@@ -20,8 +20,7 @@
 </div>
 
 ---
-
-### :hammer_and_wrench: Tools :
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="20" height="20"> Tools :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;
