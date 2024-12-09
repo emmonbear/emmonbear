@@ -102,6 +102,42 @@
 
 ### **My Weekly development breakdown**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1,162 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                224 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+🌆 Daytime                294 commits         ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+🌃 Evening                588 commits         ████████████░░░░░░░░░░░░░   48.20 % 
+🌙 Night                  114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   201 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Tuesday                  201 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Wednesday                206 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Thursday                 145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Friday                   169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Saturday                 136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Sunday                   162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+```
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -131,4 +167,12 @@ Go                       1 repo              █░░░░░░░░░░�
 PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/emmonbear/emmonbear/develop/assets/bar_graph.png)
+
+
+ Last Updated on 09/12/2024 06:03:23 UTC
 <!--END_SECTION:waka-->
