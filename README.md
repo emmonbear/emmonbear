@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM0NzM5NDEsIm5iZiI6MTczMzQ3MzY0MSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA2VDA4MjcyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYxZjFiNGE3NTM2MmIyNGIxOWE1ZDkyZjkzMDI4ZGVmMThmZmIxZmNkZjg4NDViYjBkZDczMDJiODYzNTExMGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LohW3A4k4UgebynE8ifGwA88DfJorxpj1f2-9P7rzAw"/>
-</p>
-
 <h1 align="center">Hi there, I'm 
 <a href="https://github.com/emmonbear" target="_blank" style="color:#26a268;">Ilya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
@@ -103,3 +99,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=emmonbear&theme=dark&background=171421&ring=26a268&fire=26a268&currStreakLabel=26a268&border_color=26a268&border_radius=20" width="850" />
   </a>
 </div>
+
+### **My Weekly development breakdown**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
