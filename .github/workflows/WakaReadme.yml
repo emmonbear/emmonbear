@@ -20,4 +20,4 @@ jobs:
           SHOW_TIMEZONE: false
           SHOW_SHORT_INFO: false
           COMMIT_BY_ME: true
-          INPUT_DEBUG_LOGGING: true
+          DEBUG_LOGGING: true
