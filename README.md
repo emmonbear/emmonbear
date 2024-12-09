@@ -102,4 +102,77 @@
 
 ### **My Weekly development breakdown**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1,162 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                223 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+🌆 Daytime                294 commits         ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+🌃 Evening                588 commits         ████████████░░░░░░░░░░░░░   48.24 % 
+🌙 Night                  114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   200 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Tuesday                  201 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Wednesday                206 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Thursday                 145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Friday                   169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Saturday                 136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Sunday                   162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Yekaterinburg
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C** 
+
+```text
+C                        6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+C++                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Shell                    5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/emmonbear/emmonbear/develop/assets/bar_graph.png)
+
+
+ Last Updated on 09/12/2024 05:51:25 UTC
 <!--END_SECTION:waka-->
