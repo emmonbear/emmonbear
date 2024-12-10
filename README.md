@@ -101,52 +101,5 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-796.8%20thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                228 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-🌆 Daytime                295 commits         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-🌃 Evening                600 commits         ████████████░░░░░░░░░░░░░   48.50 % 
-🌙 Night                  114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in C** 
-
-```text
-C                        6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-C++                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Shell                    5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/emmonbear/emmonbear/develop/assets/bar_graph.png)
-
-
- Last Updated on 09/12/2024 18:47:46 UTC
 <!--END_SECTION:waka-->
